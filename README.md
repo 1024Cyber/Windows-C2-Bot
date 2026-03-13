@@ -180,7 +180,7 @@ Once deployed, the bot connects to your **Telegram Bot API**, listens for your c
 
 
 👉 To access the source code and the final payload executable, join our official Telegram channel:  
-📢 https://t.me/+tNHGAz8EWk1mM2Jk
+📢 https://t.me/x_1024Hackers
 
 ---
 
